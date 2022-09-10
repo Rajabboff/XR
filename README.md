@@ -1,2 +1,2 @@
-# XR
-WEBXR test
+# WebXR
+WebXR Unity Adventure Demo
